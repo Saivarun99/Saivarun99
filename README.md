@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saivarun99&label=Profile%20views&color=0e75b6&style=flat" alt="saivarun99" /> </p>
 
 
-- 📫 How to reach me **saivarunk1999@gmail.com**
+- ✉ How to reach me **saivarunk1999@gmail.com**
 - 📝 My Resume Link [CLICK-HERE](https://drive.google.com/file/d/1YHtqCFb_DRn7cvKapYxAAS_1Cy_pZYgf/view?usp=sharing)
 - 📎 LinkedIn [CLICK HERE](https://www.linkedin.com/in/sai-varun-27b71b210/)
 
