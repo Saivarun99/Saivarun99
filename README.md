@@ -6,7 +6,7 @@
 
 
 - 📩 How to reach me **saivarunk1999@gmail.com**
-- 📄 My Resume Link [CLICK-HERE](https://drive.google.com/file/d/10vvtaQnyFdhWvfn5LG1Jemt8SrOszBYU/view?usp=sharing)
+- 📄 My Resume Link [CLICK-HERE](https://app.enhancv.com/share/c70961b1/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
 - 📎 LinkedIn [CLICK HERE](https://www.linkedin.com/in/sai-varun-27b71b210/)
 - 🖥️ Personal Portfolio [CLICK HERE](https://sai-developer-portfolio.netlify.app/)
 
