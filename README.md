@@ -74,11 +74,7 @@ I’m a Frontend Engineer with 5+ years building production-grade web apps and S
 
 ## Contribution Graph (Snake Animation)
 
-<p align="center">
-  <img src="https://github.com/saivarun99/saivarun99/blob/output/github-contribution-grid-snake.svg" alt="contrib-snake" />
-</p>
-
-**Enable the snake animation:** install the Platane `snk` GitHub Action in a repo named `saivarun99` (https://github.com/Platane/snk).
+![Snake animation](https://github.com/saivarun99/saivarun99/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
