@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&lines=Frontend+Engineer;React+%7C+Next.js+%7C+TypeScript;Building+Clean+%26+Scalable+UIs&center=true&width=680&height=45" />
 </p>
 
-<h3 align="center">Frontend Engineer • React / Next.js / React Native • Chennai, India 🇮🇳</h3>
+<h3 align="center">Frontend Engineer • ReactJs / Next.js / Typescript • Chennai, India 🇮🇳</h3>
 
 <p align="center">
   <a href="mailto:saivarunk1999@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="email" /></a>
@@ -47,7 +47,7 @@ I’m a Frontend Engineer with 5+ years building production-grade web apps and S
 
 ---
 
-### 🔹 OutlineNow — AI-powered story maps (MVP)  
+### 🔹 OutlineNow — Transform your raw ideas, scripts, and screenplays into beautiful visual Story maps with AI.   
 **Live:** https://www.outlinenow.com/  
 **Tech:** React, AI integrations, Tailwind / Shadcn-UI  
 **What I built:** launched the OutlineNow MVP and onboarded 50+ beta users in 30 days. Built AI features to transform raw ideas, scripts, and screenplays into visual story maps. Improved onboarding flow (measured +45% improvement) and implemented frontend flows for script → story-map transformations.
