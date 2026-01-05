@@ -38,7 +38,7 @@ I’m a Frontend Engineer with 5+ years building production-grade web apps and S
 
 ---
 
-## Featured Projects (from resume)
+## Featured Projects
 
 ### 🔹 Finishdraft — writing tool & habit heatmap  
 **Live:** https://finishdraft.com/  
@@ -47,7 +47,7 @@ I’m a Frontend Engineer with 5+ years building production-grade web apps and S
 
 ---
 
-### 🔹 OutlineNow — Transform your raw ideas, scripts, and screenplays into beautiful visual Story maps with AI.   
+### 🔹 OutlineNow — From Idea to Visually Structured Outline in Minutes  
 **Live:** https://www.outlinenow.com/  
 **Tech:** React, AI integrations, Tailwind / Shadcn-UI  
 **What I built:** launched the OutlineNow MVP and onboarded 50+ beta users in 30 days. Built AI features to transform raw ideas, scripts, and screenplays into visual story maps. Improved onboarding flow (measured +45% improvement) and implemented frontend flows for script → story-map transformations.
