@@ -25,8 +25,6 @@
 
 I’m a Frontend Engineer with 5+ years building production-grade web apps and SaaS tools. I focus on clean, accessible UI, performance, and scalable frontend architecture using React, Next.js, TypeScript, Tailwind and Shadcn-UI. I build delightful user experiences and ship polished products from prototype to deployment.  
 
-**Resume:** Projects below were pulled from my resume. :contentReference[oaicite:1]{index=1}
-
 ---
 
 ## Tech & Tools
