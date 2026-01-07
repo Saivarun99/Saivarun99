@@ -78,8 +78,8 @@ I’m a Frontend Engineer with 5+ years building production-grade web apps and S
 
 ## How to view my work (quick links)
 
-- Portfolio — https://sai-developer-portfolio.netlify.app/  
-- Resume — https://app.enhancv.com/share/c70961b1/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic  
+- Portfolio — [Click Here]([url](https://sai-developer-portfolio.netlify.app/ )) 
+- Resume — [Click Here]([url](https://app.enhancv.com/share/c70961b1/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic))  
 - Finishdraft — https://finishdraft.com/  
 - OutlineNow — https://www.outlinenow.com/  
 - YouTube Clone — https://ksvmedia.netlify.app/
