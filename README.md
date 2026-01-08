@@ -82,6 +82,6 @@ I’m a Frontend Engineer with 5+ years building production-grade web apps and S
 - Resume — [Click Here]([url](https://app.enhancv.com/share/c70961b1/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic))  
 - Finishdraft — https://finishdraft.com/  
 - OutlineNow — https://www.outlinenow.com/  
-- YouTube Clone — https://ksvmedia.netlify.app/
+- YouTube Clone — [Click Here]([url](https://ksvmedia.netlify.app/))
 
 ---
